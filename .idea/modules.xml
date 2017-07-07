@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/art-cf7-datapicker-phonemask/.idea/art-cf7-datapicker-phonemask.iml" filepath="$PROJECT_DIR$/art-cf7-datapicker-phonemask/.idea/art-cf7-datapicker-phonemask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/art-cf7-datapicker-phonemask.iml" filepath="$PROJECT_DIR$/.idea/art-cf7-datapicker-phonemask.iml" />
+      <module fileurl="file://C:\OpenServer\domains\art-cf7-datapicker-phonemask\art-cf7-datapicker-phonemask\.idea\art-cf7-datapicker-phonemask.iml" filepath="C:\OpenServer\domains\art-cf7-datapicker-phonemask\art-cf7-datapicker-phonemask\.idea\art-cf7-datapicker-phonemask.iml" />
     </modules>
   </component>
 </project>

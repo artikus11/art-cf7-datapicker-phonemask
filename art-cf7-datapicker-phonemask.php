@@ -20,6 +20,8 @@ function acdp_enqueue_datepicker() {
 	wp_enqueue_script('jquery-mask', plugins_url( '/assets/js/jquery.maskedinput.min.js', __FILE__ ), null, true);
 }
 
+add_filter( 'wpcf7_form_elements', 'do_shortcode' );
+
 add_action( 'wp_footer', 'acdp_custom_script' );
 function acdp_custom_script() {
 	?>
