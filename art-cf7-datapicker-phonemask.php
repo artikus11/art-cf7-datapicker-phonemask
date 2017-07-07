@@ -48,7 +48,7 @@ function acdp_custom_script() {
 	            dateFormat: 'dd.mm.yy'
             });
             
-            $(".acdp-phone").mask("(999) 999-9999");
+            $(".acdp-phone").mask("+7(999) 999-99-99");
         });
 	</script>
 	
